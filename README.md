@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yohAb-creator
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning python.
 
 
 <!---
