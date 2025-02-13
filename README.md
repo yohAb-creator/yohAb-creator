@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yohAb-creator
+- 👋 Hi, I’m Yohan
 - 👀 I’m interested in machine learning.
--Currently learning Rust.
+-Currently learning about deep learning(no pun intended).
 
 <!---
 yohAb-creator/yohAb-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
