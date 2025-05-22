@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Yohan
-- 👀 I’m interested in machine learning.
+ Hi, I’m Yohan
+ 👀 I’m interested in machine learning.
 -Currently learning about deep learning.
+-Working on a TDA based Buffer of Thoughts framework.
 
 
 <!---
